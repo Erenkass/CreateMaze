@@ -1,0 +1,27 @@
+﻿  Kaynak.cpp
+C:\Users\EREN\OneDrive\Masaüstü\c++ kodlar\labirent perfect\labirent perfect\Kaynak.cpp(61,22): warning C4101: 'g': yerel değişken başvurusu kaldırıldı
+C:\Users\EREN\OneDrive\Masaüstü\c++ kodlar\labirent perfect\labirent perfect\Kaynak.cpp(109,21): warning C4309: '=': sabit değer kesildi
+C:\Users\EREN\OneDrive\Masaüstü\c++ kodlar\labirent perfect\labirent perfect\Kaynak.cpp(135,32): warning C4309: '=': sabit değer kesildi
+C:\Users\EREN\OneDrive\Masaüstü\c++ kodlar\labirent perfect\labirent perfect\Kaynak.cpp(203,28): warning C4309: 'bağımsız değişken': sabit değer kesildi
+C:\Users\EREN\OneDrive\Masaüstü\c++ kodlar\labirent perfect\labirent perfect\Kaynak.cpp(204,28): warning C4309: 'bağımsız değişken': sabit değer kesildi
+C:\Users\EREN\OneDrive\Masaüstü\c++ kodlar\labirent perfect\labirent perfect\Kaynak.cpp(207,17): warning C4309: '=': sabit değer kesildi
+C:\Users\EREN\OneDrive\Masaüstü\c++ kodlar\labirent perfect\labirent perfect\Kaynak.cpp(212,28): warning C4309: 'bağımsız değişken': sabit değer kesildi
+C:\Users\EREN\OneDrive\Masaüstü\c++ kodlar\labirent perfect\labirent perfect\Kaynak.cpp(213,28): warning C4309: 'bağımsız değişken': sabit değer kesildi
+C:\Users\EREN\OneDrive\Masaüstü\c++ kodlar\labirent perfect\labirent perfect\Kaynak.cpp(216,17): warning C4309: '=': sabit değer kesildi
+C:\Users\EREN\OneDrive\Masaüstü\c++ kodlar\labirent perfect\labirent perfect\Kaynak.cpp(221,28): warning C4309: 'bağımsız değişken': sabit değer kesildi
+C:\Users\EREN\OneDrive\Masaüstü\c++ kodlar\labirent perfect\labirent perfect\Kaynak.cpp(222,28): warning C4309: 'bağımsız değişken': sabit değer kesildi
+C:\Users\EREN\OneDrive\Masaüstü\c++ kodlar\labirent perfect\labirent perfect\Kaynak.cpp(225,17): warning C4309: '=': sabit değer kesildi
+C:\Users\EREN\OneDrive\Masaüstü\c++ kodlar\labirent perfect\labirent perfect\Kaynak.cpp(230,28): warning C4309: 'bağımsız değişken': sabit değer kesildi
+C:\Users\EREN\OneDrive\Masaüstü\c++ kodlar\labirent perfect\labirent perfect\Kaynak.cpp(231,28): warning C4309: 'bağımsız değişken': sabit değer kesildi
+C:\Users\EREN\OneDrive\Masaüstü\c++ kodlar\labirent perfect\labirent perfect\Kaynak.cpp(234,17): warning C4309: '=': sabit değer kesildi
+C:\Users\EREN\OneDrive\Masaüstü\c++ kodlar\labirent perfect\labirent perfect\Kaynak.cpp(239,28): warning C4309: 'bağımsız değişken': sabit değer kesildi
+C:\Users\EREN\OneDrive\Masaüstü\c++ kodlar\labirent perfect\labirent perfect\Kaynak.cpp(240,28): warning C4309: 'bağımsız değişken': sabit değer kesildi
+C:\Users\EREN\OneDrive\Masaüstü\c++ kodlar\labirent perfect\labirent perfect\Kaynak.cpp(243,17): warning C4309: '=': sabit değer kesildi
+C:\Users\EREN\OneDrive\Masaüstü\c++ kodlar\labirent perfect\labirent perfect\Kaynak.cpp(247,28): warning C4309: 'bağımsız değişken': sabit değer kesildi
+C:\Users\EREN\OneDrive\Masaüstü\c++ kodlar\labirent perfect\labirent perfect\Kaynak.cpp(248,28): warning C4309: 'bağımsız değişken': sabit değer kesildi
+C:\Users\EREN\OneDrive\Masaüstü\c++ kodlar\labirent perfect\labirent perfect\Kaynak.cpp(256,27): warning C4309: 'bağımsız değişken': sabit değer kesildi
+C:\Users\EREN\OneDrive\Masaüstü\c++ kodlar\labirent perfect\labirent perfect\Kaynak.cpp(257,27): warning C4309: 'bağımsız değişken': sabit değer kesildi
+C:\Users\EREN\OneDrive\Masaüstü\c++ kodlar\labirent perfect\labirent perfect\Kaynak.cpp(276,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\EREN\OneDrive\Masaüstü\c++ kodlar\labirent perfect\labirent perfect\Kaynak.cpp(287,26): warning C4309: 'bağımsız değişken': sabit değer kesildi
+C:\Users\EREN\OneDrive\Masaüstü\c++ kodlar\labirent perfect\labirent perfect\Kaynak.cpp(277,31): warning C4101: 'x': yerel değişken başvurusu kaldırıldı
+  labirent perfect.vcxproj -> C:\Users\EREN\OneDrive\Masaüstü\c++ kodlar\labirent perfect\x64\Debug\labirent perfect.exe

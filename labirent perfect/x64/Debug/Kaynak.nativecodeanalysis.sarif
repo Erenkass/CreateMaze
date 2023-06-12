@@ -1,0 +1,93 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "Aritmetik taşma: '+' işleci bir 4 bayt değer üzerinde kullanılarak sonuç bir 8 bayt değere dönüştürülüyor. Taşmayı önlemek için '+' işlecini çağırmadan önce değeri daha geniş bir türe dönüştürün (io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/kerem/Desktop/Visual Studio Kodları/labirent perfect/labirent perfect/Kaynak.cpp"
+                },
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 18,
+                  "endLine": 31,
+                  "endColumn": 41
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "boslukkoy",
+                  "decoratedName": "?boslukkoy@@YA_NAEAV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@AEAV?$vector@Uyol1@@V?$allocator@Uyol1@@@std@@@2@QEAH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "Aritmetik taşma: '+' işleci bir 4 bayt değer üzerinde kullanılarak sonuç bir 8 bayt değere dönüştürülüyor. Taşmayı önlemek için '+' işlecini çağırmadan önce değeri daha geniş bir türe dönüştürün (io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/kerem/Desktop/Visual Studio Kodları/labirent perfect/labirent perfect/Kaynak.cpp"
+                },
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 44,
+                  "endLine": 31,
+                  "endColumn": 67
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "boslukkoy",
+                  "decoratedName": "?boslukkoy@@YA_NAEAV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@AEAV?$vector@Uyol1@@V?$allocator@Uyol1@@@std@@@2@QEAH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.34.31933.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Users/kerem/Desktop/Visual Studio Kodları/labirent perfect/labirent perfect/Kaynak.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "ca43934babb90f68b2ae287609abdd86a14cf0f3921b5596b1d5c641760543a6"
+          }
+        }
+      ]
+    }
+  ]
+}
